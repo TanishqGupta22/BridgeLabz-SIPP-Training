@@ -11,7 +11,7 @@ public class StudentGradeCalculator2D {
         double[] percentage = new double[number];
         char[] grade = new char[number];
 
-        for (int i = 0; i < number; i++) {
+        for  (int i = 0; i < number; i++) {
             System.out.println("Enter marks for Student " + (i + 1));
 
             boolean valid = true;

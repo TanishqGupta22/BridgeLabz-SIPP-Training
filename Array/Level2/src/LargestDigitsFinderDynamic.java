@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LargestDigitsFinderDynamic {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner (System.in);
         int number;
 
         System.out.print("Enter a number: ");

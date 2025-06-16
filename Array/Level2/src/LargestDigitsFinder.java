@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LargestDigitsFinder {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner (System.in);
         int number;
         int maxDigit = 10;
         int[] digits = new int[maxDigit];

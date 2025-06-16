@@ -5,6 +5,7 @@ public class BMICalculator2D {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter number of persons: ");
+        
         int number = scanner.nextInt();
 
         double[][] personData = new double[number][3];

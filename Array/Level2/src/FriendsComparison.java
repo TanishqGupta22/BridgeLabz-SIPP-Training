@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FriendsComparison {
     public static void main(String[] args) {
-        String[] names = {"Amar", "Akbar", "Anthony"};
+        String[] names = {"Amar", "Akbar", " Anthony"};
         int[] ages = new int[3];
         double[] heights = new double[3];
 

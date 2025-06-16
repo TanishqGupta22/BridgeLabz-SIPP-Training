@@ -5,7 +5,7 @@ public class StudentGradeCalculator {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter number of students: ");
-        int number = scanner.nextInt();
+        int number = scanner.nextInt ();
 
         int[][] marks = new int[number][3];
         double[] percentage = new double[number];

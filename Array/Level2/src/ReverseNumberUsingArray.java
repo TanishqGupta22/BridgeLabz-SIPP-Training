@@ -6,7 +6,7 @@ public class ReverseNumberUsingArray {
         int number;
 
         System.out.print("Enter a number: ");
-        number = scanner.nextInt();
+        number = scanner.nextInt ();
 
         int temp = number;
         int count = 0;

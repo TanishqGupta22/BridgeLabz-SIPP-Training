@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Copy2DTo1D {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter number of rows: ");
+         System.out.print("Enter number of rows: ");
         int rows = scanner.nextInt();
         System.out.print("Enter number of columns: ");
         int cols = scanner.nextInt();

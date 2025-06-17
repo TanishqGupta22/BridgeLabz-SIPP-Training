@@ -11,7 +11,7 @@ public class BMICalculator {
         double[] height = new double[n];
         double[] weight = new double[n];
         double[] bmi = new double[n];
-        String[] status = new String[n];
+         String[] status = new String[n];
 
         for (int i = 0; i < n; i++) {
             System.out.println("Enter details for Person " + (i + 1));

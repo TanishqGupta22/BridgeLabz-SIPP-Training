@@ -6,7 +6,7 @@ public class BMICalculator {
 
         
         System.out.print("Enter number of persons: ");
-        int n = scanner.nextInt();
+          int n = scanner.nextInt();
 
         double[] height = new double[n];
         double[] weight = new double[n];
